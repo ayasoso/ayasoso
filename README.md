@@ -1,16 +1,17 @@
-## Hi there 👋
+# ayasoso
 
-<!--
-**ayasoso/ayasoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Film production · Interactive storytelling · Creative tools**
 
-Here are some ideas to get you started:
+I work in film production and interactive storytelling. I use AI-assisted tools for research, creative review, and production workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+- Interactive narratives and game experiences.
+- Practical tools for production, research, and creative review.
+- Small prototypes that turn ideas into something people can try.
+
+Earlier work: [Ori-Western Production](https://www.ori-western.com/) — a historical Australian production chapter.
+
+---
+
+影视制作、互动叙事与创作工具。探索 AI 如何辅助创意开发与制作，让想法逐步成为可以体验的作品。
